@@ -1,5 +1,5 @@
 # Header - README Template
-<a class="anchor" id="about the project"></a>
+<a class="anchor" id="about the projects"></a>
 >## About the Project
 Include a summary of the project here.
 
